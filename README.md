@@ -1,2 +1,2 @@
-# assets
-Static assets for our projects
+# Assets
+Static assets for our projects, you can also use them. 
